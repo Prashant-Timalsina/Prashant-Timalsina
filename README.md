@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Prashant Timalsina
+# Prashant Timalsina
 
-## 🚀 About Me
-- 🎓 Bachelor's graduate (2025)
-- 💻 Focused on **Web and Mobile Development**
-- 📚 Currently improving skills in modern full-stack development
-- 🤝 Open to **jobs, internships, freelancing, and team collaborations**
+## About Me
+- Bachelor's graduate (2025)
+- Focused on Web and Mobile Development
+- Currently improving skills in modern full-stack development
+- Open to jobs, internships, freelancing, and team collaborations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
 ### Frontend
 - HTML, CSS, JavaScript
 - React (basic to intermediate)
@@ -18,30 +19,30 @@
 ### Backend
 - Node.js (basic)
 - Laravel (basic to intermediate)
-- API development concepts
+- REST API development
 
 ### Tools & Technologies
-- Git & GitHub
+- Git, GitHub
 - VS Code
 - Linux (Fedora)
 
 ---
 
-## 📈 What I'm Working On
+## Current Focus
 - Building real-world web and mobile projects  
 - Strengthening core concepts (state management, APIs, architecture)  
-- Improving problem-solving and clean code practices  
+- Improving problem-solving and code quality  
 
 ---
 
-## 🤝 Looking For
+## Opportunities
 - Entry-level developer roles  
-- Traineeship / Job opportunities  
+- Traineeship / job opportunities  
 - Freelance projects  
-- Collaborative team projects  
+- Collaborative team environments  
 
 ---
 
-## ⚡ Notes
-- I focus on writing **clean, readable, and maintainable code**
-- Always learning and adapting to new technologies
+## Notes
+- Emphasis on clean, readable, and maintainable code
+- Continuous learning and adaptation to new technologies
